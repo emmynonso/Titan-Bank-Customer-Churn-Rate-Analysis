@@ -3,7 +3,7 @@ This analysis focuses on a comprehensive dataset of Titan Bank that includes var
 # Folder Structure
 There are a total of 4 folders, 
 1. The Data (raw) folder: this holds the original csv file which is not cleaned
-2. The docs folder: This contains the full analysis report in a pdf format 
+2. The docs folder: This contains the full analysis report in a pdf format and images of the dashboard
 3. The notebooks folder: this holds the several codes used in sql to manipulate the data and draw several insights
 4. The README.md folder: This file—serves as a guide to understanding the project’s purpose, structure, and usage.
 
